@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FmgDataExchange Version="1.0">
+  <Header>
+    <CreatedDateTime>2020-05-23 08:55:19</CreatedDateTime>
+    <LanguageCode>de</LanguageCode>
+    <Source Id="PPS">
+      <Description></Description>
+    </Source>
+    <Destination Id="LVS">
+      <Description>FMG LVS</Description>
+    </Destination>
+  </Header>
+  <Articles Version="1.6.7">
+    <Article>
+      <Name>316L-0.8-2000-1000</Name>
+      <Name2></Name2>
+      <Description>316L</Description>
+      <Description2>INOX 316L</Description2>
+      <Description3 />
+      <Code></Code>
+      <Dimension>
+        <Length>2000</Length>
+        <Width>1000</Width>
+        <Height>0.8</Height>
+        <Unit>mm</Unit>
+      </Dimension>
+      <MaterialGroup>
+        <Name>INOX</Name>
+      </MaterialGroup>
+      <Material Id="0">
+        <Name>INOX</Name>
+        <SpecificWeight>7.96</SpecificWeight>
+        <UnitOfSpecificWeight>kg/dm3</UnitOfSpecificWeight>
+      </Material>
+      <TotalQuantity>0</TotalQuantity>
+      <StockUnit>0</StockUnit>
+      <TotalWeight>0</TotalWeight>
+      <MinimumUnclaimedQuantity>0</MinimumUnclaimedQuantity>
+    </Article>
+  </Articles>
+</FmgDataExchange>
